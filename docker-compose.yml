@@ -1,0 +1,17 @@
+version: "3"
+services:
+  www:
+    image: nginx
+    restart: always
+    expose:
+      - "80"
+    volumes:
+      - ./:/usr/share/nginx/html:ro
+    environment:
+      - VIRTUAL_HOST=sapia.apps.com.pe,www.sapia.apps.com.pe
+      - LETSENCRYPT_HOST=sapia.apps.com.pe,www.sapia.apps.com.pe
+      - LETSENCRYPT_EMAIL=miguekos1233@gmail.com
+networks:
+  default:
+    external:
+      name: nginx-proxy_default
