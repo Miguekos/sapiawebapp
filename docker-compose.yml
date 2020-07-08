@@ -7,10 +7,17 @@ services:
       - "80"
     volumes:
       - ./:/usr/share/nginx/html:ro
+      - ./default.conf:/etc/nginx/conf.d/default.conf
     environment:
       - VIRTUAL_HOST=sapia.apps.com.pe,www.sapia.apps.com.pe
       - LETSENCRYPT_HOST=sapia.apps.com.pe,www.sapia.apps.com.pe
       - LETSENCRYPT_EMAIL=miguekos1233@gmail.com
+
+  php:
+    image: php:7-fpm
+    volumes:
+      - ./:/usr/share/nginx/html:ro
+
 networks:
   default:
     external:
