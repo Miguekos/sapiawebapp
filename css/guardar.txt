@@ -1,0 +1,123 @@
+.service-item.otra {
+    width: 46%;
+    background: aqua;
+    border-radius: 20px;
+    margin-left: 3%;
+    height: 1%;
+}
+
+h5.card-title.tale1 {
+    color: cyan;
+    font-size: 21px;
+    margin-top: -37px;
+}
+
+h5.card-title.tale1:after {
+    display: block;
+    content: "";
+    width: 14%;
+    height: 3px;
+    background-color: #00ffff;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 3px;
+    margin-left: 5%;
+}
+
+h6.card-subtitle.mb-2.text-muted.subtale1 {
+    color: black;
+    font-size: 13px;
+}
+p.card-text.sigtale1 {
+    font-size: 11px;
+}
+
+.service-item.otra.otra2 {
+    margin-top: -50%;
+    margin-left: 51%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal2 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 19px;
+}
+.service-item.otra.otra3 {
+    margin-left: 0%;
+    margin-top: 2.01%;
+    float: left;
+}
+h6.card-subtitle.mb-2.text-muted.subtal3 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 13px;
+    font-weight: 700;
+}
+.service-item.otra.otra4 {
+    margin-top: -48.5%;
+    margin-left: 51%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal4 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 18px;
+}
+h6.card-subtitle.mb-2.text-muted.subtal5 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 18px;
+}
+.service-item.otra.otra6 {
+        margin-top: -49%;
+    margin-left: 3%;
+}
+.service-item.otra.otra5 {
+    margin-left: 51.4%;
+    margin-top: 3.3%;
+}
+
+h6.card-subtitle.mb-2.text-muted.subtal6 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 18px;
+}.service-item.otra.otra7 {
+    margin-left: 3%;
+    margin-top: 3.35%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal7 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 18px;
+}
+.service-item.otra.otra8 {
+    margin-top: -47.65%;
+    margin-left: 51%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal8 {
+    text-align: left;
+    color: black;
+    margin-top: 0%;
+    font-size: 16px;
+    font-weight: 700;
+}
+.service-item.otra.otra9 {
+    margin-left: 15%;
+    margin-top: 3%;
+    width: 70%;
+}h6.card-subtitle.mb-2.text-muted.subtal9 {
+    text-align: left;
+    color: black;
+    margin-top: 5%;
+    font-size: 20px;
+}
+.container.server {
+    width: auto;
+    margin-top: -83px;
+}

@@ -66,9 +66,7 @@
   font-size: 25px;
 }
 
-.container.otro {
-    width: 100%;
-}
+
 
 /*-----------------header-----------------*/
 
@@ -106,10 +104,12 @@ header nav ul li a {
   display: block;
   margin-left: -3px;
   font-weight: 600;
+  width: 147px !important;
 }
 
+
 header nav ul li a:focus {
-  color: #000;
+  color: #ffffff;
 }
 
 header nav ul li a.current,
@@ -167,56 +167,105 @@ canvas {
   top:0;
 }
 
-strong.agili {
+.agili {
     color: #4243a1;
     font-size: 35px;
+    margin-left: 20px;
+    font-family: Flexo-bold;
 }
 
 div#particles2-js {
-    float: right;
-    margin-top: -639px;
-    width: 82%;
-    height: 635px;
-    margin-right: -94px;
+    margin-top: -53%;
+    width: 101%;
+    height: 543px;
+    margin-left: 66%;
+    margin-bottom: -57px;
 }
 
 div#particles3-js {
-    margin-top: -251px;
-    float: left;
-    margin-left: -202px;
-    width: 46%;
-    height: 670px;
+    margin-top: -87%;
+    width: 101%;
+    height: 543px;
+    margin-left: 34%;
+    margin-bottom: -240px;
 }
 div#particles4-js {
-    float: right;
-    margin-top: -639px;
-    width: 82%;
-    height: 635px;
-    margin-right: -94px;
+    margin-top: -73%;
+    width: 101%;
+    height: 543px;
+    margin-left: 66%;
+    margin-bottom: -57px;
 }
 p.agilipa {
     color: black !important;
     font-size: 20px;
+    margin-left: 50px;
 }
-strong.agili2 {
+img.iconFlex {
+    margin-top: -16px;
+}
+.agili2 {
     color: #2fffe6;
     font-size: 35px;
+    margin-left: 20px;
+    font-family: Flexo-bold;
 }
 p.agilipa2 {
     color: black !important;
     font-size: 20px;
+    margin-left: 50px;
 }
-strong.agili3 {
+h1.section-title.ofrece1 {
+    margin-top: 24%;
+    color: black !important;
+}
+span.servi1 {
+    font-family: Flexo-bold;
+}
+h5.ofrece2 {
+    font-weight: 300;
+}
+
+h4.ofre3 {
+    color: black;
+    font-family: Flexo-bold;
+}
+
+.ho1{
+color: white;
+    text-align: center;
+    
+
+}
+
+.ho2{
+  color: white;
+    text-align: center;
+   
+    margin-top: 20px;
+
+}
+
+.empresa{
+    background: #0acfd8;
+    padding: 3px 29px 9px 29px;
+    font-weight: 300;
+
+}
+.agili3 {
     color: #2fcbff;
     font-size: 35px;
+    margin-left: 20px;
+    font-family: Flexo-bold;
 }
 p.agilipa3 {
     color: black !important;
     font-size: 20px;
+    margin-left: 50px;
 }
 .about-text.te {
-    margin-top: 570px;
-    margin-bottom: 10px;
+    margin-top: 76%;
+    margin-bottom: -129px;
 }
 
 img.logosapia {
@@ -306,7 +355,17 @@ img.logosapia {
     opacity: 1;
   }
 }
+/*-------------------FontFamily FLEXO-----------------------*/
 
+@font-face{
+  font-family: Flexo-Bold;
+  src: url('../fonts/Flexo-Bold.ttf') format('truetype');
+}
+@font-face{
+  font-family: Flexo-Regular;
+  src: url('../fonts/Flexo-Regular.ttf') format('truetype');
+
+}
 
 /*------------------about section---------------------------*/
 
@@ -316,13 +375,14 @@ img.logosapia {
 
 .about-text {
   
-  padding-left: 20px;
+    padding-left: 20px;
     background: white;
-    margin-left: -423px;
-    margin-top: 420px;
+    margin-left: -93%;
+    margin-top: 55%;
     padding: 101px;
     margin-bottom: -98px;
 }
+ 
 
 .about-text h1 {
   text-align: left;
@@ -342,11 +402,233 @@ img.logosapia {
 .about-img {
   
 
-      margin-top: -102px;
-    float: left;
-    margin-left: -9px;
+    margin-top: -210px;
+    margin-left: -49%;
     z-index: -1;
+    width: 711px;
+    height: 809px;
 }
+
+
+.service-item.otra {
+    width: 260px;
+    background: cyan;
+    height: 260px;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+.service-item.otra.otra2 {
+    margin-left: 23%;
+    margin-top: -16.9%;
+}
+
+.service-item.otra.otra3 {
+    margin-left: 41%;
+    margin-top: -16.99%;
+    background: #0acfd8;
+}
+.service-item.otra.otra4 {
+    margin-left: 58.6%;
+    margin-top: -16.7%;
+    background: #b8d9ed;
+}
+
+.service-item.otra.otra5{
+   margin-left: 76.4%;
+    margin-top: -16.7%;
+}
+
+.service-item.otra.otra6 {
+    margin-left: 14%;
+}
+
+.service-item.otra.otra7 {
+    margin-left: 32%;
+    margin-top: -16.65%;
+    background: #73d2f5;
+}
+
+.service-item.otra.otra8 {
+    margin-left: 50%;
+    margin-top: -16.65%;
+}
+.service-item.otra.otra9 {
+        margin-left: 68%;
+    margin-top: -16.65%;
+        background: #0acfd8;
+}
+
+.service-item.otra.otra1 {
+    background: rgba(255, 255, 255, 0.9);
+}
+h6.card-subtitle.mb-2.text-muted.subtal2 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal3 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+    font-size: 23px;
+}
+h6.card-subtitle.mb-2.text-muted.subtal4 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal5 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}h6.card-subtitle.mb-2.text-muted.subtal6 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}h6.card-subtitle.mb-2.text-muted.subtal7 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}h6.card-subtitle.mb-2.text-muted.subtal8 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}h6.card-subtitle.mb-2.text-muted.subtal9 {
+    text-align: left;
+    color: black;
+    margin-top: 22%;
+}
+
+h5.card-title.tale1 {
+    color: cyan;
+    margin-top: 36px;
+}
+h6.card-subtitle.mb-2.text-muted.subtale1 {
+    color: black;
+    font-size: 16px;
+}
+h6.card-subtitle.mb-2.text-muted.subtal2:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal3:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal4:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal5:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal6:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal7:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal8:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+h6.card-subtitle.mb-2.text-muted.subtal9:after {
+    display: block;
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #010101;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+
+
+h5.card-title.tale1:after {
+  display: block;
+    content: "";
+    width: 14%;
+    height: 3px;
+    background-color: #00ffff;
+    transition: 0.3s all;
+    position: relative;
+    top: -3px;
+    z-index: 10;
+    margin-top: 3px;
+    margin-left: 14%;
+}
+
+
 
 .about-img img {
   /*position: relative;
@@ -421,7 +703,7 @@ img.logosapia {
 
 .skill-heading-area h4 {
   padding-top: 30px;
-  padding-bottom: 20px;
+  padding-bottom: 105px;
 }
 
 .skill-overlay {
@@ -429,7 +711,7 @@ img.logosapia {
   right: 0;
   width: 50%;
   height: 100%;
-  background: rgb(249, 249, 249);
+  background-image: url(../images/tecno222.jpg);
 }
 
 .skills-content .progressbar-area p {
@@ -520,7 +802,7 @@ img.logosapia {
 /*-----------------services section-----------------*/
 
 .services {
-  background-color: rgba(234, 234, 234, 0.9);
+ background-image: url(../images/fondo212.png);
   text-align: center;
 }
 
@@ -979,6 +1261,11 @@ img.logosapia {
   margin-bottom: 50px;
 }
 
+img.icon1 {
+    margin-bottom: -27px;
+    margin-top: -33px;
+    float: right;
+}
 #client-testimonial .owl-theme .owl-controls .owl-page span {
   border-radius: 0px;
 }
@@ -1053,6 +1340,29 @@ form textarea {
   margin-top: 28px;
   color: #fff;
 }
+span.quienes {
+    font-family: Flexo-bold;
+}
+
+h4.descrip {
+    font-family: Flexo-bold;
+}
+
+h5.descripH5 {
+    font-weight: 300;
+}
+span.what {
+    font-family: Flexo-bold;
+}
+h6.subparrafo1 {
+    font-weight: 300;
+}
+span.como {
+    font-family: Flexo-bold;
+}
+h4.parrafo {
+    font-family: Flexo-bold;
+}
 
 form textarea {
   height: 160px;
@@ -1081,9 +1391,7 @@ form #email {
   color: #164E71;
   border-color: transparent;
 }
-a.aver.current {
-    width: 171px;
-}
+
 
 .contact .result {
   color: #fff;
@@ -1114,12 +1422,8 @@ footer {
   color: #ddd;
 }
 
-/* ---- particles.js container ---- */
-
-
-
-/*  background-color: #b61924;*/
     
          
 
-}
+
+
