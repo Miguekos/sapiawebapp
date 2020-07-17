@@ -31,7 +31,7 @@
 
 </head>
 
-<body oncontextmenu="return false" onkeydown="return false"><!-- oncontextmenu="return false" onkeydown="return false" -->
+<body oncontextmenu="return false" onkeydown="return false" ><!-- oncontextmenu="return false" onkeydown="return false" -->
     <!-- Start Preloader -->
     <div class="preloader">
         <div class="preloader-img"></div>
@@ -77,7 +77,7 @@
         <div id="particles-js"></div>
         <div class="welcome-text">
             <h1 class="ho1"><span>Conocimiento y experiencia</span></h1>
-            <h1 class="ho2">que transforma <strong class="empresa">Empresas</strong></h1>
+            <h1 class="ho2">que transforma <img  class="gifHo" src="images/sapia-140x25.gif" alt="Funny image"></h1>
             
             <a href="#" class="btn-style2 hire-btn">CONOCE MÁS</a>
         </div>
@@ -252,9 +252,7 @@
                     
   
     <div class="service-item otra otra1" >
-    <h5 class="card-title tale1">Adryan ®</h5>
-    <h6 class="card-subtitle mb-2 text-muted subtale1">GESTIÓN MODERNA</h6>
-    <p class="card-text sigtale1">DEL TALENTO HUMANO</p>
+    <img  class="logotipo" src="images/LOGOTIPO-ADRYAN.png" alt="Funny image">
     
   
   </div>

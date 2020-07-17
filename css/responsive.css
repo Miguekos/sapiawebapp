@@ -184,11 +184,9 @@
 
 
 
-@media screen and (max-width:480px) {
+
   /*----------------skills---------------*/
-  .skill-overlay {
-    top: 575px;
-  }
+  
   /*---------------portfolio--------------*/
   .portfolio-content-head ul li {
   margin-bottom: 8px;
@@ -231,6 +229,21 @@
     margin-left: 3%;
     height: 1%;
    }
+
+   .skill-overlay {
+    top: 575px;
+  }
+
+  .ho1 {
+    
+    font-weight: 300;
+    font-size: 24px;
+  }
+ .ho2 {
+    
+    font-weight: 300;
+    font-size: 24px;
+  }
 
  h5.card-title.tale1 {
     color: cyan;
@@ -508,6 +521,13 @@
     border-radius: 20px;
     margin-left: -8.6%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 316px;
+    height: 304px;
+    margin-left: -56px;
+    border-radius: 91px;
+}
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -568,6 +588,13 @@
     border-radius: 20px;
     margin-left: -23%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
   
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
@@ -657,6 +684,13 @@
     border-radius: 20px;
     margin-left: -23%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -788,6 +822,13 @@
     margin-top: -27.65%;
     background: #0acfd8;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  h1.titulo {
     margin-left: 30% !important;
   }
@@ -833,6 +874,13 @@
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra {
     width: 232px;
     background: cyan;
@@ -935,6 +983,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -1032,6 +1087,13 @@
     border-radius: 20px;
     margin-left: -23%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
 
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
@@ -1126,6 +1188,13 @@
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra {
     width: 238px;
     background: cyan;
@@ -1264,6 +1333,13 @@
     border-radius: 20px;
     margin-left: -19.5%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 8.5%;
     margin-top: -27%;
@@ -1365,6 +1441,13 @@
     margin-left: 7.5%;
     margin-top: -27%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra3 {
     margin-left: 36.5%;
     margin-top: -27%;
@@ -1452,6 +1535,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -26.5%;
@@ -1543,6 +1633,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -26.2%;
@@ -1637,6 +1734,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -25.7%;
@@ -1736,6 +1840,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -25.2%;
@@ -1792,6 +1903,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -24.7%;
@@ -1887,6 +2005,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -24.3%;
@@ -1982,6 +2107,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -23.7%;
@@ -2069,6 +2201,13 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+ img.logotipo {
+    margin-top: -77px;
+    width: 292px;
+    height: 281px;
+    margin-left: -54px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -22.5%;
@@ -2156,6 +2295,13 @@
     border-radius: 20px;
     margin-left: -14.5%;
  }
+ img.logotipo {
+   margin-top: -77px;
+    width: 317px;
+    height: 303px;
+    margin-left: -58px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -23.8%;
@@ -2244,6 +2390,13 @@
     border-radius: 20px;
     margin-left: -14.5%;
  }
+ img.logotipo {
+   margin-top: -77px;
+    width: 317px;
+    height: 303px;
+    margin-left: -58px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -23.3%;
@@ -2292,6 +2445,13 @@
     border-radius: 20px;
     margin-left: -14.5%;
  }
+ img.logotipo {
+   margin-top: -77px;
+    width: 317px;
+    height: 303px;
+    margin-left: -58px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -22.8%;
@@ -2337,6 +2497,13 @@
     border-radius: 20px;
     margin-left: -14.5%;
  }
+  img.logotipo {
+   margin-top: -77px;
+    width: 317px;
+    height: 303px;
+    margin-left: -58px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -22.4%;
@@ -2383,6 +2550,13 @@
     border-radius: 20px;
     margin-left: -14.5%;
  }
+  img.logotipo {
+   margin-top: -77px;
+    width: 317px;
+    height: 303px;
+    margin-left: -58px;
+    border-radius: 91px;
+}
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -21.7%;

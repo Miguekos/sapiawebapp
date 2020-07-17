@@ -86,6 +86,10 @@ header a .logo {
   float: left;
 }
 
+img.gifHo {
+    width: 166px;
+    height: 48px;
+}
 header nav {
   float: right;
 }
@@ -234,6 +238,7 @@ h4.ofre3 {
 .ho1{
 color: white;
     text-align: center;
+    font-weight: 300;
     
 
 }
@@ -243,6 +248,7 @@ color: white;
     text-align: center;
    
     margin-top: 20px;
+    font-weight: 300;
 
 }
 
@@ -414,8 +420,9 @@ img.logosapia {
     width: 260px;
     background: cyan;
     height: 260px;
-    border-radius: 20px;
+    
     margin-left: 5%;
+    border-radius: 8px !important;
 }
 
 .service-item.otra.otra2 {
@@ -462,6 +469,7 @@ img.logosapia {
 .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
 }
+
 h6.card-subtitle.mb-2.text-muted.subtal2 {
     text-align: left;
     color: black;
