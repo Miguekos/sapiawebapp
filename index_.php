@@ -31,7 +31,7 @@
 
 </head>
 
-<body oncontextmenu="return false" onkeydown="return false"><!-- oncontextmenu="return false" onkeydown="return false" -->
+<body oncontextmenu="return false" onkeydown="return false" ><!-- oncontextmenu="return false" onkeydown="return false" -->
     <!-- Start Preloader -->
     <div class="preloader">
         <div class="preloader-img"></div>
@@ -52,18 +52,18 @@
             <div class="row">
                 <div class="col-md-3">
                     <a href="index.html" class="logo">
-                        <img class="logosapia" src="images/Sapia-01.svg" alt="logo">
+                        <img class="logosapia" src="images/logosapia.png" alt="logo">
                     </a>
                 </div>
                 <div class="col-md-9">
                     <nav class="menu single-page-nav" id="menu">
                         <ul>
                             <li><a class="aver" href="#welcome-area">SOBRE NOSOTROS</a></li>
-                            <li><a class="aboutMenu" href="#about">SERVICIOS</a></li>
-                            <li><a class="servicesMenu" href="#services">CLIENTES</a></li>
-                            <li><a class="prensaMenu" href="#portfolio">PRENSA</a></li>
-                            <li><a class="especialMenu" href="#contact">ESPECIALISTAS</a></li>
-                            <li><a class="ContactMenu" href="#contact">CONTACTO</a></li>
+                            <li><a href="#about">SERVICIOS</a></li>
+                            <li><a href="#services">CLIENTES</a></li>
+                            <li><a href="#portfolio">PRENSA</a></li>
+                            <li><a href="#contact">ESPECIALISTAS</a></li>
+                            <li><a class="aver" href="#contact">CONTACTO</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -77,9 +77,9 @@
         <div id="particles-js"></div>
         <div class="welcome-text">
             <h1 class="ho1"><span>Conocimiento y experiencia</span></h1>
-            <h1 class="ho2">que transforma <img  class="gifHo" src="images/sapia-170x50.gif" alt="Funny image"></h1>
+            <h1 class="ho2">que transforma <img  class="gifHo" src="images/sapia-140x25.gif" alt="Funny image"></h1>
             
-            <a href="#" class="btn-style2 hire-btn cono">CONOCE MÁS</a>
+            <a href="#" class="btn-style2 hire-btn">CONOCE MÁS</a>
         </div>
     </section>
     <!--End Welcome Section-->

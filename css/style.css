@@ -87,8 +87,8 @@ header a .logo {
 }
 
 img.gifHo {
-    width: 166px;
-    height: 48px;
+    width: 209px;
+    height: 70px;
 }
 header nav {
   float: right;
@@ -126,7 +126,7 @@ header nav ul li a.current::after,
 header nav ul li a:active::after {
      display: block;
     content: "";
-    width: 100%;
+    width: 50%;
     height: 3px;
     background-color: #009dff;
     transition: 0.3s all;
@@ -134,9 +134,15 @@ header nav ul li a:active::after {
     top: -3px;
     z-index: 10;
     text-align: center !important;
-    
-    margin-top: -5px;
+    margin-top: -15px;
+    margin-left: 27%;
 }
+
+    .aboutMenu{    margin-right: -35px;}
+    .servicesMenu{ margin-right: -42px;}
+    .prensaMenu{   margin-right: -22px;}
+    .especialMenu{ margin-right: -14px;}
+    
 
 .slicknav_menu {
   display: none;
@@ -178,13 +184,15 @@ canvas {
     font-family: Flexo-bold;
 }
 
-div#particles2-js {
-    margin-top: -53%;
+ div#particles2-js {
+    margin-top: -99%;
     width: 101%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: -57px;
-}
+    margin-left: 57%;
+    margin-bottom: 473px;
+    position: relative;
+    z-index: -999;
+ }
 
 div#particles3-js {
     margin-top: -87%;
@@ -194,11 +202,11 @@ div#particles3-js {
     margin-bottom: -240px;
 }
 div#particles4-js {
-    margin-top: -73%;
+    margin-top: -86%;
     width: 101%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: -57px;
+    margin-left: 57%;
+    margin-bottom: 32%;
 }
 p.agilipa {
     color: black !important;
@@ -236,19 +244,24 @@ h4.ofre3 {
 }
 
 .ho1{
-color: white;
+    color: white;
     text-align: center;
-    font-weight: 300;
+    float: left;
+    margin-left: 18%;
+    font-weight: 700;
+    font-size: 65px;
     
 
 }
 
 .ho2{
-  color: white;
+    color: white;
     text-align: center;
-   
-    margin-top: 20px;
+    margin-top: 77px;
     font-weight: 300;
+    float: left;
+    margin-left: -44%;
+    font-size: 65px;
 
 }
 
@@ -270,12 +283,26 @@ p.agilipa3 {
     margin-left: 50px;
 }
 .about-text.te {
-    margin-top: 76%;
+    margin-top: 138%;
     margin-bottom: -129px;
 }
 
 img.logosapia {
     margin-top: 19px;
+        width: 163px;
+}
+a.btn-style2.hire-btn.cono::after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 3px;
+    background-color: #ffffff;
+    transition: 0.3s all;
+    position: relative;
+    top: 15px;
+    z-index: 10;
+    text-align: center !important;
+    margin-top: -15px;
 }
 
 .about-img.im {
@@ -316,12 +343,14 @@ img.logosapia {
 }
 
 .hire-btn {
-  display: block;
-  width: 186px;
-  font-size: 15px;
-  margin: 0 auto;
-  margin-top: 65px;
-  padding: 10px 22px;
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -45%;
 }
 
 .welcome-text h6 {
@@ -372,6 +401,11 @@ img.logosapia {
   src: url('../fonts/Flexo-Regular.ttf') format('truetype');
 
 }
+@font-face{
+  font-family: Flexo-BoldIt;
+  src: url('../fonts/Flexo-Regular.ttf') format('truetype');
+
+}
 
 /*------------------about section---------------------------*/
 
@@ -383,8 +417,8 @@ img.logosapia {
   
     padding-left: 20px;
     background: white;
-    margin-left: -93%;
-    margin-top: 55%;
+    margin-left: -128%;
+    margin-top: 113%;
     padding: 101px;
     margin-bottom: -98px;
 }
@@ -408,11 +442,12 @@ img.logosapia {
 .about-img {
   
 
-    margin-top: -210px;
-    margin-left: -49%;
+       margin-top: -77px;
+    margin-left: -55%;
     z-index: -1;
-    width: 711px;
-    height: 809px;
+    float: left;
+    width: 700px;
+    height: 1000px;
 }
 
 
@@ -677,7 +712,7 @@ h5.card-title.tale1:after {
 /*----------------skills section--------------------*/
 
 .skills {
-  background: url(../images/skill-bg.jpg);
+  background: url(../images/Rectángulo.png);
     background-size: cover;
     width: 50%;
     margin-top: 4px;
@@ -846,7 +881,7 @@ h5.card-title.tale1:after {
   padding: 56px 28px;
   margin-top: 28px;
   transition: all 0.5s;
-  box-shadow: 0px 0px 10px #EDEDED;
+  
 }
 
 .service-item:hover {
@@ -1422,7 +1457,7 @@ form #email {
 
 footer {
   padding: 84px 0px 96px 0px;
-  background: #13254a;
+  background: #03123c;
 }
 
 .copyright p {

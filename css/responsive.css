@@ -25,6 +25,17 @@
   .container.containermenu {
     width: 1214px;
  }
+  h5.ofrece2 {
+    width: 813px !important;
+  }
+  h4.ofre3 {
+    color: black;
+    font-family: Flexo-bold;
+    width: 871px !important;
+  }
+
+
+
 }
 
 
@@ -199,7 +210,7 @@
   .blog-detail.padding-style1{
     padding: 50px 0px;
   }
-}
+
 @media screen and (max-width:360px) {
   /*----------------testimonial-----------*/
   #client-testimonial .owl-carousel .owl-wrapper-outer {
@@ -527,7 +538,7 @@
     height: 304px;
     margin-left: -56px;
     border-radius: 91px;
-}
+ }
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -594,7 +605,8 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
+
   
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
@@ -650,29 +662,89 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 120%;
+    height: 522px;
+    margin-left: 58%;
+    margin-bottom: 505px;
+    z-index: -1999;
+    position: relative;
  }
  div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+    margin-top: -179%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
-  }
+    margin-left: 79%;
+    margin-bottom: 406px;
+    position: relative;
+    z-index: -999;
+ }
+
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 6%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
     width: 520px;
  }
+ .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -68%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -69.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 81px;
+ }
+ .col-md-3 {
+    width: 14%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 173%;
+    padding: 101px;
+    margin-bottom: -98px;
+  }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+ }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 740px;
+ }
+  h5.descripH5 {
+    font-weight: 300;
+    width: 750px;
+  }
 
 }
 
@@ -690,7 +762,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -750,18 +822,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 129%;
+    height: 522px;
+    margin-left: 44%;
+    margin-bottom: 557px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -158%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 74%;
+    margin-bottom: 357px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -772,6 +848,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+  }
+ .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -65.5%;
+     font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -66.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 52px;
+ }
+ .col-md-3 {
+    width: 17%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 
@@ -828,8 +959,8 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
- h1.titulo {
+ }
+  h1.titulo {
     margin-left: 30% !important;
   }
   h4.parrafo {
@@ -841,22 +972,26 @@
   h4.parrafo2 {
     margin-left: 25%;
  }
- h6.subparrafo1 {
+  h6.subparrafo1 {
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 131%;
+    height: 522px;
+    margin-left: 44%;
+    margin-bottom: 585px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -150%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 62%;
+    margin-bottom: 308px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -867,6 +1002,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -66%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -67.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 81px;
+ }
+ .col-md-3 {
+    width: 14%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 968px;
  }
 
 }
@@ -880,7 +1070,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra {
     width: 232px;
     background: cyan;
@@ -888,10 +1078,7 @@
     border-radius: 20px;
     margin-left: -21%;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+  
 
  h1.section-title.ofrece1 {
     margin-top: 26%;
@@ -948,18 +1135,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 131%;
+    height: 522px;
+    margin-left: 44%;
+    margin-bottom: 585px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -159%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 74%;
+    margin-bottom: 401px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -970,6 +1161,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -64.8%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -66.1%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 47px;
+ }
+ .col-md-3 {
+   width: 18%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 
 
@@ -989,7 +1235,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
  }
@@ -1028,10 +1274,7 @@
     margin-top: -27.8%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+ 
 
  h1.section-title.ofrece1 {
     margin-top: 26%;
@@ -1053,18 +1296,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 131%;
+    height: 477px;
+    margin-left: 45%;
+    margin-bottom: 633px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -158%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 74%;
+    margin-bottom: 370px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1075,6 +1322,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+ .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -64%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -65.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 47px;
+ }
+ .col-md-3 {
+    width: 19%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 
 }
@@ -1093,7 +1395,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
 
   .service-item.otra.otra1 {
     background: rgba(255, 255, 255, 0.9);
@@ -1124,6 +1426,7 @@
     margin-top: -26.6%;
     background: #73d2f5;
  }
+
  .service-item.otra.otra8 {
     margin-left: 50%;
     margin-top: -27.6%;
@@ -1158,18 +1461,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 131%;
+    height: 632px;
+    margin-left: 43%;
+    margin-bottom: 495px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -163%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 72%;
+    margin-bottom: 423px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1180,6 +1487,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+  }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -63.5%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -64.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 
@@ -1194,7 +1556,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra {
     width: 238px;
     background: cyan;
@@ -1237,10 +1599,7 @@
     margin-top: -27.4%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+ 
 
  h1.section-title.ofrece1 {
     margin-top: 33%;
@@ -1261,18 +1620,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 131%;
+    height: 632px;
+    margin-left: 43%;
+    margin-bottom: 495px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -179%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 79%;
+    margin-bottom: 370px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1300,18 +1663,21 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -191%;
+    width: 126%;
+    height: 590px;
+    margin-left: 48%;
+    margin-bottom: 558px;
+    z-index: -1999;
+    position: relative;
  }
  div#particles4-js {
-    margin-top: -143%;
+    margin-top: -158%;
     width: 101%;
     height: 543px;
     margin-left: 66%;
-    margin-bottom: 128px;
+    margin-bottom: 411px;
+
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1322,6 +1688,61 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -62.5%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -63.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 184%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 @media (max-width: 1370px) and (min-width: 1351px){
@@ -1339,7 +1760,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 8.5%;
     margin-top: -27%;
@@ -1380,12 +1801,8 @@
     margin-top: -27%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
-
- h1.section-title.ofrece1 {
+  
+  h1.section-title.ofrece1 {
     margin-top: 35%;
     }
     h1.titulo {
@@ -1404,18 +1821,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -170%;
+    width: 123%;
+    height: 590px;
+    margin-left: 48%;
+    margin-bottom: 457px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -152%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 70%;
+    margin-bottom: 394px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1427,6 +1848,63 @@
   h5.ofrece2 {
     width: 520px;
  }
+ .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -61.5%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -62.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+ 
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -120%;
+    margin-top: 154%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+
 }
 
 @media (max-width: 1390px) and (min-width: 1371px){
@@ -1447,7 +1925,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra3 {
     margin-left: 36.5%;
     margin-top: -27%;
@@ -1479,10 +1957,7 @@
     margin-top: -26.9%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+ 
 
  h1.section-title.ofrece1 {
     margin-top: 34%;
@@ -1502,19 +1977,35 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 149%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+  div#particles2-js {
+    margin-top: -160%;
+    width: 119%;
+    height: 630px;
+    margin-left: 49%;
+    margin-bottom: 425px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -149%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 63%;
+    margin-bottom: 443px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1525,6 +2016,49 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -61.4%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -63.5%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 @media (max-width: 1410px) and (min-width: 1391px){
@@ -1541,7 +2075,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -26.5%;
@@ -1600,29 +2134,88 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 162%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ div#particles2-js {
+    margin-top: -163%;
+    width: 117%;
+    height: 630px;
+    margin-left: 49%;
+    margin-bottom: 459px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -144%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 65%;
+    margin-bottom: 426px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 1%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -59.7%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -60.8%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 @media (max-width: 1435px) and (min-width: 1410px){
@@ -1639,7 +2232,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -26.2%;
@@ -1666,7 +2259,7 @@
     margin-top: -26.1%;
     background: #73d2f5;
  }
-.service-item.otra.otra8 {
+ .service-item.otra.otra8 {
     margin-left: 50%;
     margin-top: -26.2%;
  }
@@ -1675,10 +2268,7 @@
     margin-top: -26.2%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+ 
 
  h1.section-title.ofrece1 {
     margin-top: 44%;
@@ -1701,19 +2291,35 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 151%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+ div#particles2-js {
+    margin-top: -156%;
+    width: 119%;
+    height: 630px;
+    margin-left: 49%;
+    margin-bottom: 433px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -140%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 64%;
+    margin-bottom: 416px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -1724,6 +2330,49 @@
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -59%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -60%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 @media (max-width: 1465px) and (min-width: 1435px){
@@ -1740,11 +2389,11 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -25.7%;
-}
+ }
  .service-item.otra.otra3 {
     margin-left: 36.5%;
     margin-top: -25.7%;
@@ -1767,7 +2416,7 @@
     margin-top: -25.7%;
     background: #73d2f5;
  }
-.service-item.otra.otra8 {
+ .service-item.otra.otra8 {
     margin-left: 50%;
     margin-top: -25.7%;
  }
@@ -1781,10 +2430,7 @@
     margin-top: -25.7%;
     background: #0acfd8;
  }
- .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+  
 
  h1.section-title.ofrece1 {
     margin-top: 40%;
@@ -1807,29 +2453,78 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 152%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
+  .about-text.te {
+    margin-top: 205%;
+    margin-bottom: -23px;
+  }
+  
+  div#particles4-js {
+    margin-top: -141%;
     width: 101%;
     height: 543px;
     margin-left: 66%;
-    margin-bottom: 128px;
+    margin-bottom: 453px;
   }
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 1%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
     width: 520px;
+  }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+  }
+  .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -57.9%;
+    font-size: 65px;
+  }
+  .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -59.2%;
+ }
+  img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
 }
 @media (max-width: 1490px) and (min-width: 1466px){
@@ -1840,13 +2535,15 @@
     border-radius: 20px;
     margin-left: -21%;
  }
+
+
  img.logotipo {
     margin-top: -77px;
     width: 292px;
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -25.2%;
@@ -1882,16 +2579,93 @@
     margin-top: -25.2%;
     background: #0acfd8;
   }
-  .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+  
 
- h1.section-title.ofrece1 {
+  h1.section-title.ofrece1 {
     margin-top: -22%;
     }
      h1.section-title.titu {
     margin-top: -42%;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -56.8%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -58%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 147%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 169%;
+    margin-bottom: -28px;
+ }
+ div#particles2-js {
+    margin-top: -150%;
+    width: 117%;
+    height: 630px;
+    margin-left: 49%;
+    margin-bottom: 751px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -122%;
+    width: 102%;
+    height: 543px;
+    margin-left: 64%;
+    margin-bottom: 526px;
+    position: relative;
+    z-index: -999;
+  }
+  div#particles3-js {
+    margin-top: -26%;
+    width: 28%;
+    height: 564px;
+    margin-left: 1%;
+    margin-bottom: -366px;
  }
  
 }
@@ -1909,7 +2683,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -24.7%;
@@ -1945,10 +2719,7 @@
     margin-top: -24.7%;
     background: #0acfd8;
   }
-  .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+  
 
  h1.section-title.ofrece1 {
     margin-top: 50%;
@@ -1971,12 +2742,26 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 136%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+  .about-text.te {
+    margin-top: 178%;
+    margin-bottom: -23px;
+  }
+  div#particles2-js {
+    margin-top: -145%;
+    width: 117%;
+    height: 678px;
+    margin-left: 49%;
+    margin-bottom: 386px;
+    z-index: -1999;
+    position: relative;
  }
  div#particles4-js {
     margin-top: -143%;
@@ -1985,15 +2770,67 @@
     margin-left: 66%;
     margin-bottom: 128px;
   }
+  div#particles4-js {
+    margin-top: -125%;
+    width: 102%;
+    height: 543px;
+    margin-left: 63%;
+    margin-bottom: 388px;
+    position: relative;
+    z-index: -999;
+  }
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 1%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
     width: 520px;
+ }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 7%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -56%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -57%;
+ }
+ img.logosapia {
+    margin-top: 19px;
+    width: 163px;
+    margin-left: 34px;
+ }
+ .col-md-3 {
+    width: 20%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
  }
  
 }
@@ -2011,7 +2848,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -24.3%;
@@ -2047,10 +2884,7 @@
     margin-top: -24.3%;
     background: #0acfd8;
   }
-  .about-text.te {
-    margin-top: 123%;
-    margin-bottom: -129px;
- }
+ 
 
  h1.section-title.ofrece1 {
     margin-top: 50%;
@@ -2073,30 +2907,82 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 135%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  .about-text.te {
+    margin-top: 176%;
+    margin-bottom: -23px;
+  }
+ div#particles2-js {
+    margin-top: -140%;
+    width: 122%;
+    height: 630px;
+    margin-left: 40%;
+    margin-bottom: 442px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -125%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 63%;
+    margin-bottom: 419px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 0.7%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
     width: 520px;
  }
+ .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -55%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -56%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+
  
 }
 @media (max-width: 1600px) and (min-width: 1550px){
@@ -2113,7 +2999,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -23.7%;
@@ -2164,25 +3050,41 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 125%;
+    padding: 101px;
+    margin-bottom: -98px;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  .about-text.te {
+    margin-top: 165%;
+    margin-bottom: -23px;
+  }
+ div#particles2-js {
+    margin-top: -140%;
+    width: 113%;
+    height: 680px;
+    margin-left: 49%;
+    margin-bottom: 430px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -114%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 62%;
+    margin-bottom: 369px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
     width: 28%;
     height: 564px;
-    margin-left: 3%;
+    margin-left: 0.6%;
     margin-bottom: -366px;
   }
   h5.ofrece2 {
@@ -2191,6 +3093,41 @@
   h1.section-title.ofrece1 {
     margin-top: 50%;
     }
+    .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -52.7%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -53.7%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
  
 }
 @media (max-width: 1660px) and (min-width: 1600px){
@@ -2207,7 +3144,7 @@
     height: 281px;
     margin-left: -54px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 7.5%;
     margin-top: -22.5%;
@@ -2259,18 +3196,22 @@
     margin-left: 25%;
  }
  div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+    margin-top: -129%;
+    width: 116%;
+    height: 716px;
+    margin-left: 47%;
+    margin-bottom: 360px;
+    z-index: -1999;
+    position: relative;
  }
  div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+    margin-top: -102%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 62%;
+    margin-bottom: 302px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -2285,6 +3226,45 @@
   h1.section-title.ofrece1 {
     margin-top: 50%;
     }
+    .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -51%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -52%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+ .about-text.te {
+    margin-top: 159%;
+    margin-bottom: -54px;
+ }
  
 }
 @media (max-width: 1705px) and (min-width: 1660px){
@@ -2301,7 +3281,7 @@
     height: 303px;
     margin-left: -58px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -23.8%;
@@ -2352,19 +3332,23 @@
  h6.subparrafo1 {
     margin-left: 25%;
  }
- div#particles2-js {
-    margin-top: -85%;
-    width: 93%;
-    height: 530px;
-    margin-left: 87%;
-    margin-bottom: -113px;
+  div#particles2-js {
+    margin-top: -126%;
+    width: 111%;
+    height: 672px;
+    margin-left: 47%;
+    margin-bottom: 409px;
+    z-index: -1999;
+    position: relative;
  }
- div#particles4-js {
-    margin-top: -143%;
-    width: 101%;
+  div#particles4-js {
+    margin-top: -99%;
+    width: 102%;
     height: 543px;
-    margin-left: 66%;
-    margin-bottom: 128px;
+    margin-left: 59%;
+    margin-bottom: 354px;
+    position: relative;
+    z-index: -999;
   }
   div#particles3-js {
     margin-top: -26%;
@@ -2373,12 +3357,51 @@
     margin-left: 3%;
     margin-bottom: -366px;
   }
+  .about-text.te {
+    margin-top: 149%;
+    margin-bottom: -59px;
+  }
   h5.ofrece2 {
     width: 520px;
  }
   h1.section-title.ofrece1 {
     margin-top: 50%;
     }
+    .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -50%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -51%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
  
 }
 
@@ -2396,7 +3419,7 @@
     height: 303px;
     margin-left: -58px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -23.3%;
@@ -2432,9 +3455,74 @@
     margin-top: -23.3%;
     background: #0acfd8;
   }
-   h1.section-title.ofrece1 {
-    margin-top: 50%;
-    }
+  h1.section-title.ofrece1 {
+    margin-top: 41%;
+  }
+    .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -48.2%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -49.2%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+ div#particles2-js {
+    margin-top: -128%;
+    width: 116%;
+    height: 647px;
+    margin-left: 40%;
+    margin-bottom: 532px;
+    z-index: -1999;
+    position: relative;
+ }
+ div#particles4-js {
+    margin-top: -96%;
+    width: 102%;
+    height: 543px;
+    margin-left: 59%;
+    margin-bottom: 278px;
+    position: relative;
+    z-index: -999;
+ }
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 124%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+ .about-text.te {
+    margin-top: 156%;
+    margin-bottom: -99px;
+ }
  
 }
 @media (max-width: 1775px) and (min-width: 1745px){
@@ -2451,7 +3539,7 @@
     height: 303px;
     margin-left: -58px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -22.8%;
@@ -2487,6 +3575,67 @@
     margin-top: -22.8%;
     background: #0acfd8;
   }
+  .ho1 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -47.6%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -47.6%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+  div#particles2-js {
+    margin-top: -133%;
+    width: 111%;
+    height: 628px;
+    margin-left: 48%;
+    margin-bottom: 607px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -93%;
+    width: 102%;
+    height: 543px;
+    margin-left: 58%;
+    margin-bottom: 356px;
+    position: relative;
+    z-index: -999;
+ }
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 128%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
  
 }
 @media (max-width: 1800px) and (min-width: 1776px){
@@ -2503,7 +3652,7 @@
     height: 303px;
     margin-left: -58px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -22.4%;
@@ -2539,6 +3688,60 @@
     margin-top: -22.4%;
     background: #0acfd8;
   }
+   .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -46.6%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -47.6%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+  div#particles2-js {
+    margin-top: -116%;
+    width: 111%;
+    height: 644px;
+    margin-left: 49%;
+    margin-bottom: 433px;
+    z-index: -1999;
+    position: relative;
+ }
+  div#particles4-js {
+    margin-top: -98%;
+    width: 102%;
+    height: 543px;
+    margin-left: 58%;
+    margin-bottom: 370px;
+    position: relative;
+    z-index: -999;
+  }
+ .about-text {
+    padding-left: 20px;
+    background: white;
+    margin-left: -128%;
+    margin-top: 116%;
+    padding: 101px;
+    margin-bottom: -98px;
+ }
+ 
  
 }
 
@@ -2556,7 +3759,7 @@
     height: 303px;
     margin-left: -58px;
     border-radius: 91px;
-}
+ }
  .service-item.otra.otra2 {
     margin-left: 11.1%;
     margin-top: -21.7%;
@@ -2592,6 +3795,53 @@
     margin-top: -21.7%;
     background: #0acfd8;
   }
+  .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -45.8%;
+    font-size: 65px;
+ }
+ .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -46.8%;
+ }
+  h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+  div#particles2-js {
+    margin-top: -110%;
+    width: 110%;
+    height: 630px;
+    margin-left: 49%;
+    margin-bottom: 428px;
+    z-index: -1999;
+    position: relative;
+ }
+ div#particles4-js {
+    margin-top: -96%;
+    width: 102%;
+    height: 543px;
+    margin-left: 56%;
+    margin-bottom: 391px;
+    position: relative;
+    z-index: -999;
+ }
+ 
+ 
  
 }
 
@@ -2638,6 +3888,53 @@
     margin-top: -21.2%;
     background: #0acfd8;
   }
+  .ho2 {
+    color: white;
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 300;
+    float: left;
+    margin-left: -44.8%;
+    font-size: 65px;
+    }
+
+ 
+  .hire-btn {
+    display: block;
+    width: 185px;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 217px;
+    padding: 10px 22px;
+    float: left;
+    margin-left: -45.8%;
+ }
+ h4.descrip {
+    font-family: Flexo-bold;
+    width: 968px;
+ }
+ h5.descripH5 {
+    font-weight: 300;
+    width: 991px;
+ }
+  div#particles2-js {
+    margin-top: -113%;
+    width: 104%;
+    height: 650px;
+    margin-left: 49%;
+    margin-bottom: 460px;
+    z-index: -1999;
+    position: relative;
+ }
+ div#particles4-js {
+    margin-top: -90%;
+    width: 102%;
+    height: 543px;
+    margin-left: 54%;
+    margin-bottom: 377px;
+    position: relative;
+    z-index: -999;
+ }
  
 }
 
@@ -2647,7 +3944,7 @@
     margin-top: -27%;
     width: 29%;
     height: 543px;
-    margin-left: 7%;
+    margin-left: 0.3%;
     margin-bottom: -344px;
  }
  h1.titulo {
@@ -2669,6 +3966,7 @@
     width: 426px;
     margin-left: 100px;
  }
+  
 
 }
 
@@ -2696,7 +3994,14 @@
 
 
 @media (max-width: 1590px) and (min-width: 1400px){
-
+  h5.ofrece2 {
+    width: 1006px !important;
+ }
+ h4.ofre3 {
+    color: black;
+    font-family: Flexo-bold;
+    width: 887px !important;
+ }
  
 }
 
@@ -2708,4 +4013,15 @@
 
 }
 
+@media screen and (min-width: 1591px){
 
+  h5.ofrece2 {
+    width: 1186px !important;
+ }
+ h4.ofre3 {
+    color: black;
+    font-family: Flexo-bold;
+    width: 987px !important;
+ }
+
+}

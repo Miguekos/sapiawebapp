@@ -1,4 +1,4 @@
-particlesJS("particles-js", {
+    /*particlesJS("particles-js", {
   "particles": {
     "number": {
       "value": 130,
@@ -108,15 +108,15 @@ particlesJS("particles-js", {
   },
   "retina_detect": false
 },
-);
+);*/
 
 particlesJS("particles2-js", {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 160,
       "density": {
         "enable": true,
-        "value_area": 1000
+        "value_area": 900
       }
     },
     "color": {
@@ -153,29 +153,29 @@ particlesJS("particles2-js", {
       "anim": {
         "enable": false,
         "speed": 40,
-        "size_min": 0.1,
+        "size_min": 9.9,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
-      "distance": 130,
+      "distance": 200,
       "color": "#00aff1",
       "opacity": 0.9,
-      "width": 2
+      "width": 2.7
     },
     "move": {
       "enable": true,
-      "speed": 6,
-      "direction": "none",
+      "speed": 0.01,
+      "direction": "top-right",
       "random": false,
       "straight": false,
       "out_mode": "out",
       "bounce": false,
       "attract": {
         "enable": false,
-        "rotateX": 600,
-        "rotateY": 1200
+        "rotateX": 100,
+        "rotateY": 100
       }
     }
   },
@@ -194,7 +194,7 @@ particlesJS("particles2-js", {
     },
     "modes": {
       "grab": {
-        "distance": 400,
+        "distance": 200,
         "line_linked": {
           "opacity": 1
         }
@@ -224,10 +224,10 @@ particlesJS("particles2-js", {
 particlesJS("particles3-js", {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 160,
       "density": {
         "enable": true,
-        "value_area": 1000
+        "value_area": 900
       }
     },
     "color": {
@@ -264,29 +264,29 @@ particlesJS("particles3-js", {
       "anim": {
         "enable": false,
         "speed": 40,
-        "size_min": 0.1,
+        "size_min": 9.9,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
-      "distance": 130,
+      "distance": 200,
       "color": "#00aff1",
       "opacity": 0.9,
-      "width": 2
+      "width": 2.7
     },
     "move": {
       "enable": true,
-      "speed": 6,
-      "direction": "none",
+      "speed": 0.01,
+      "direction": "top-right",
       "random": false,
       "straight": false,
       "out_mode": "out",
       "bounce": false,
       "attract": {
         "enable": false,
-        "rotateX": 600,
-        "rotateY": 1200
+        "rotateX": 100,
+        "rotateY": 100
       }
     }
   },
@@ -305,7 +305,7 @@ particlesJS("particles3-js", {
     },
     "modes": {
       "grab": {
-        "distance": 400,
+        "distance": 200,
         "line_linked": {
           "opacity": 1
         }
@@ -335,10 +335,10 @@ particlesJS("particles3-js", {
 particlesJS("particles4-js", {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 160,
       "density": {
         "enable": true,
-        "value_area": 1000
+        "value_area": 900
       }
     },
     "color": {
@@ -375,29 +375,29 @@ particlesJS("particles4-js", {
       "anim": {
         "enable": false,
         "speed": 40,
-        "size_min": 0.1,
+        "size_min": 9.9,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
-      "distance": 130,
+      "distance": 200,
       "color": "#00aff1",
       "opacity": 0.9,
-      "width": 2
+      "width": 2.7
     },
     "move": {
       "enable": true,
-      "speed": 6,
-      "direction": "none",
+      "speed": 0.01,
+      "direction": "top-right",
       "random": false,
       "straight": false,
       "out_mode": "out",
       "bounce": false,
       "attract": {
         "enable": false,
-        "rotateX": 600,
-        "rotateY": 1200
+        "rotateX": 100,
+        "rotateY": 100
       }
     }
   },
@@ -416,7 +416,7 @@ particlesJS("particles4-js", {
     },
     "modes": {
       "grab": {
-        "distance": 400,
+        "distance": 200,
         "line_linked": {
           "opacity": 1
         }

@@ -93,7 +93,7 @@ h6 {
   display: inline-block;
   transition: all 0.5s;
   font-weight: 500;
-  border: 1px solid #fff;
+  
 }
 
 .btn-style2:hover,.btn-style2:focus {
